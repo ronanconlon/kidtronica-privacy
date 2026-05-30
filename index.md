@@ -40,7 +40,7 @@ collect any personal information from any user, including children.
 
 If you have any questions about this privacy policy, contact us at:
 
-**[your-email@example.com]**
+**ronan.conlon@gmail.com**
 
 ## Changes to This Policy
 
