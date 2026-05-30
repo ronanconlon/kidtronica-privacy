@@ -4,7 +4,7 @@ Need help? We're here for it.
 
 ## Contact Us
 
-Email us at **ronan.conlon@mongodb.com** and we'll get back to you 
+Email us at **ronan.conlon@gmail.com** and we'll get back to you 
 as soon as possible.
 
 ---
